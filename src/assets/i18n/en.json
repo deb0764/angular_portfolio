@@ -1,0 +1,110 @@
+{
+  "Header.Item1": "About me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "Debarghya_Mondal_Frontend_Developer_CV.pdf",
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "I have <span class='underline'>2 years of experience</span> developing applications, components, sdk's, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Javscript, Angular, React</span> applying good practices and development standards.",
+  "Banner.ActionBtn": "Get in touch",
+  "AboutMe.Title": "About me",
+  "AboutMe.Paragraphs": [
+    "Versatile Frontend Developer with 2 years of experience in designing, developing, and implementing scalable and responsive enterprise-level applications with a configurable approach.",
+    "I specialize in creating framework components for easy and quick development, while also maintaining a strong focus on creating exceptional user experiences.",
+    "Some of the technologies that I have trained and worked on include (but are not limited to):"
+  ],
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "Degpeg",
+      "Title": "Frontend developer",
+      "Date": "October 2021 - Present",
+      "Description": [
+        "Developed secure and tested codebase for 5+ web products using JavaScript, Angular, and React ensuring structure and reliability.",
+        "Integrated dashboard components, increasing streaming efficiency across multiple social media platforms and plugins (e.g., Stripe, Shopify, Chart.js, Mogi.io).",
+        "Independently engineered a 1:1 SDK, leveraging libraries such as Peer.js, Socket.IO, and RxJS, for one-to-one video interactions.",
+        "Increased user engagement using Web API services like Push Notification, Geolocation, and MediaRecorder.",
+        "Implemented REST API services on the client side, conducting comprehensive CRUD operation testing with tools such as Postman, ensuring a 99% success rate.",
+        "Implemented security through JWT implementation and improved performance via Lazy Loading techniques.",
+        "Optimized development processes using SDLC, Agile, GIT, and Jira, boosting collaboration efficiency and enhancing deliverable quality."
+      ]
+    },
+
+    {
+      "Tab": "ClearExam",
+      "Title": "Frontend intern",
+      "Date": "November 2020 - Feburary 2021",
+      "Description": [
+        "Gained proficiency in extensive development and testing processes while mastering a range of Leadership Principles.",
+        "Boosted frontend project contributions through practical expertise in React, JavaScript, HTML, and CSS.",
+        "Evaluated 10+ end-to-end designs for performance complexity, scalability, quality, and security."
+      ]
+    }
+  ],
+  "FeatureProjects.Title": "Projects that I was a part of",
+  "FeatureProjects.Label": "Featured Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Live B2B Platform",
+      "Description": "One single dashboard helps brands manage their content and product advertising through live streaming on social media handles by providing analytics of engagement, CTAs, leads, and sales data.",
+      "imgs": ["assets/images/degpeg-admin.png"],
+      "Technologies": ["Angular", "Typescript", "Web API", "REST API"]
+    },
+    {
+      "Title": "Live Tv SDK",
+      "Description": "A client-side SDK can be added to a brand's website or mobile application to broadcast live streaming of product advertisements. It showcases custom and Shopify-imported products and includes an analytics tracker.",
+      "imgs": ["assets/images/livetv.png"],
+      "Technologies": ["Javascript", "REST API", "Socket.IO"]
+    },
+    {
+      "Title": "1:1 SDK",
+      "Description": "This SDK is used for various use cases, such as customer support, technician-engineer communication, and more. The SDK offers features like real-time recording, call routing, adding participants, call analytics, and more.",
+      "imgs": ["assets/images/onetoone.png"],
+      "Technologies": ["Javascript", "RxJs", "PeerJs"]
+    }
+  ],
+  "OtherProjects.Title": "Other projects",
+  "OtherProjects.Projects": [
+    {
+      "Title": "Multi User Drawing Board",
+      "Description": "A collaborative real-time drawing app for multiple users to paint together in shared virtual rooms.",
+      "demoLink": "https://github.com/deb0764/multi-user-drawing-app",
+      "Technologies": ["Angular", "NodeJs", "ExpressJs"]
+    },
+    {
+      "Title": "Event Management",
+      "Description": "Interactive event app enabling real-time engagement, quizzes, and winner announcements between event managers and participants.",
+      "demoLink": "https://github.com/deb0764/ypo-event-forntend",
+      "Technologies": ["Angular", "Node", "Express", "MongoDB"]
+    },
+    {
+      "Title": "Shop Management System",
+      "Description": "Empower shop owners with efficient customer management, transaction tracking, dues monitoring, and purchase recording tools in one application",
+      "demoLink": "https://github.com/deb0764/shop_dashboard_frontend",
+      "Technologies": ["React", "Node", "Express", "MongoDB"]
+    },
+    {
+      "Title": "Appoitment Booking Web App",
+      "Description": "Developed a React app for seamless patient-doctor appointment scheduling, integrating WhatsApp and email notifications for efficient communication and confirmation.",
+      "demoLink": "https://github.com/deb0764/dentist_clinic_web_app",
+      "Technologies": ["React", "Javascript", "REST API"]
+    },
+    {
+      "Title": "Id Card Generator",
+      "Description": "a web-based ID printing app, extracting employee data from Excel files to print customized employee ID cards.",
+      "demoLink": "https://github.com/deb0764/employee-id-printing-app",
+      "Technologies": ["HTML", "CSS", "Web API"]
+    },
+    {
+      "Title": "SEO Optimized Website",
+      "Description": "React business website with SEO focus, integrated Google Analytics for data-driven insights on user engagement and conversions.",
+      "demoLink": "https://github.com/deb0764/seo_business_website",
+      "Technologies": ["React", "Javascript", "On-page SEO"]
+    }
+  ],
+  "Contact.Pretitle": "What’s Next",
+  "Contact.Title": "Get in touch!",
+  "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+  "Contact.Btn": "Say Hello"
+}
