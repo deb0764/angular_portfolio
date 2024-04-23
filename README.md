@@ -20,7 +20,7 @@ This is a portfolio website built using Angular, showcasing my projects, skills,
 
 To get a local copy of this project up and running, follow these steps:
 
-1. Clone this repository: `git clone <repository-url>`
+1. Clone this repository: `https://github.com/debarghya-m/angular_portfolio_website.git`
 2. Navigate to the project directory: `cd angular_portfolio_website`
 3. Install dependencies: `npm install`
 4. Run the development server: `ng serve`
